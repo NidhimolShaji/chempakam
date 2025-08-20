@@ -2,3 +2,31 @@
     margin: 0;
     padding: 0;
 }
+.promo-message{
+    text-align: center;
+    font-size: 15px;
+    font-weight: 500;
+    font-family: 'Jost', sans-serif;
+    text-transform: uppercase;
+    box-sizing: border-box;
+    padding: 10px;
+    background-color:rgb(220, 200, 181);
+}
+
+nav{
+    height: 15vh;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.769);
+    cursor: pointer;
+}
+img{
+    height: 13vh;
+    width: auto;
+    padding-top:20px;
+    padding-left: 5px;
+    vertical-align: middle;
+    box-sizing: border-box;
+    color: gold;
+
+    
+}
