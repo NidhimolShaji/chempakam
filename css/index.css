@@ -185,3 +185,8 @@ select:hover,select:active{
     font-size:small;
     padding: 30px 50px;
 }
+.p img{
+    margin-top:20px;
+    height: 30px;
+    width: 30px;
+}
